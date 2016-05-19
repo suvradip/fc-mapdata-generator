@@ -1,0 +1,17 @@
+{
+  "name": "fc-mapdata-generator",
+  "version": "0.0.1",
+  "description": "For our fusioncharts.com, this program helps to generat map navigation data as JSON file from CSV.",
+  "main": "generate.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suvradip/fc-mapdata-generator.git"
+  },
+  "author": "suvradip saha",
+  "license": "MIT",
+  "engines": "v0.8.15",
+  "dependencies": {
+    "csv-array": "0.0.22"
+  }
+}
