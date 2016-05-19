@@ -1,6 +1,6 @@
 #fc-mapdata-generator
 
-> For our www.fusioncharts.com, this program helps to generat map navigation data as JSON file format from a CSV.
+> For our www.fusioncharts.com, this program helps to generate map navigation data as JSON file format from a CSV.
 
 ## Dependencies
 This program got only one dependencies i,e. "csv-array".
